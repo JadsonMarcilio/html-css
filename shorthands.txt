@@ -1,0 +1,7 @@
+Shorthands
+
+Font: Style/Variant/Weight/Size/Family
+Border: Width/Style/Color
+Paddin: Top/Right/Bottom/Left (se o tamanho for igual para todos os lados, basta informar uma vez)
+Margin: Top/Right/Bottom/Left
+Outline: Width/Style/Color
